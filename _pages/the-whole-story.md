@@ -206,9 +206,9 @@ For a full list of functions, please go to: [http://docs.docker.io/en/latest/com
 
 Docker runs three ways:
 
-* as a daemon to manage LXC containers on your Linux host (sudo docker -d)
-* as a CLI which talks to the daemon's REST API (docker run ...)
-* as a client of Repositories that let you share what you've built (docker pull, docker commit).
+* as a daemon to manage LXC containers on your Linux host (`sudo docker -d`)
+* as a CLI which talks to the daemon's REST API (`docker run` ...)
+* as a client of Repositories that let you share what you've built (`docker pull`, `docker commit`).
 
 ## How Do Containers Work? (And How are they Different From VMs)
 
