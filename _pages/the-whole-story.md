@@ -40,7 +40,8 @@ Figure 1: The Evolution of IT
 This sets up the possibility for:
 
 *   Adverse interactions between different services and "dependency hell"
-*   Challenges in rapidly migrating and scaling across different hardware*   The impossibility of managing a matrix of multiple different services deployed across multiple different types of hardware
+*   Challenges in rapidly migrating and scaling across different hardware
+*   The impossibility of managing a matrix of multiple different services deployed across multiple different types of hardware
 
 <img src="{% static 'img/about/the_challenge.jpg' %}" title="The Challenge of Multiple Stacks and Multiple Hardware Environments.">
 
